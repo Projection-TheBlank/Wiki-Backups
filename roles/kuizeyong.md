@@ -2,7 +2,7 @@
 title: 鬼泽咏
 description: 鬼泽咏的介绍
 published: true
-date: 2025-01-10T03:44:48.588Z
+date: 2025-01-10T05:49:50.250Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T12:13:07.110Z
@@ -35,5 +35,8 @@ dateCreated: 2025-01-09T12:13:07.110Z
 
 - 左眼的包带可摘下，包带后是异色紫瞳（其实是美瞳） 参见b站鬼泽咏动态: [Bilibili动态-2021.05.23 07:55](https://www.bilibili.com/opus/527805683448563400)
 <img src="/kuizeyong/鬼泽咏异色瞳.avif" alt="img" style="zoom:75%;" />
+
+
 ### 性格特点：
+
 
