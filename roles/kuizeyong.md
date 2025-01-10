@@ -2,7 +2,7 @@
 title: 鬼泽咏
 description: 鬼泽咏的介绍
 published: true
-date: 2025-01-10T03:24:05.641Z
+date: 2025-01-10T03:25:18.115Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T12:13:07.110Z
@@ -33,4 +33,6 @@ dateCreated: 2025-01-09T12:13:07.110Z
 - 以下为鬼泽咏的初稿设定：参见b站图文专栏：[Bilibili-是画师妈咪给的初稿哟(＾Ｕ＾)ノ~](https://www.bilibili.com/opus/525347196923383706)
 <img src="/kuizeyong/鬼泽咏画师初稿.avif" alt="img" style="zoom:50%;" />
 
+
+<img src="/kuizeyong/鬼泽咏画师初稿.avif" alt="img" border="0" class="thumbnail_hold_to_enlarge" width="128px" height="auto">
 
