@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-01-24T18:14:14.631Z
+date: 2025-01-24T18:26:48.283Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -24,8 +24,17 @@ dateCreated: 2025-01-24T16:51:38.100Z
 https://store.steampowered.com/app/105600/Terraria/
 
 或：1.使用群/活动提供的游戏安装包(火绒杀毒pass)(以下下载方式任选其一)
-[夸克网盘](https://pan.quark.cn/s/770ea40ef285)
- 
+
+- [夸克网盘*需要登陆/需要安装客户端* ](https://pan.quark.cn/s/770ea40ef285)
+{.links-list}
+
+---
+- [百度网盘*需要登陆/需要安装客户端* ](https://pan.quark.cn/s/770ea40ef285)
+{.links-list}
+
+11
+
+
 > 资源名称：泰拉瑞亚1449.exe 
 > 校验信息：(如果你不理解请忽略此内容)
 > CRC32:d398463c
