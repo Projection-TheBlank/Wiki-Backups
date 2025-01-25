@@ -2,7 +2,7 @@
 title: 新年游戏企划参与UP人员信息
 description: 
 published: true
-date: 2025-01-25T12:50:51.413Z
+date: 2025-01-25T13:22:24.496Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-25T06:28:24.791Z
@@ -32,6 +32,10 @@ dateCreated: 2025-01-25T06:28:24.791Z
 [bilibili_UID:3546817048349034](https://space.bilibili.com/3546817048349034)
 [直播间:1794043547](https://live.bilibili.com/1794043547)
 
+> 鱼乐个大咸:
+会分享与朋友的游戏日常，喜欢可爱的一切事物～vrchatid：鱼乐个大咸
+[bilibili_UID:3493106263525975](https://space.bilibili.com/3493106263525975)
+[直播间:26672822](https://live.bilibili.com/26672822)
 
 
 
