@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-01-25T06:10:29.878Z
+date: 2025-01-25T06:10:56.649Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -38,7 +38,7 @@ dateCreated: 2025-01-24T16:51:38.100Z
 > - [123盘*需要登陆/无需客户端✅/不限速✅* ](https://www.123684.com/s/3uTGTd-wnwWh)
 > {.links-list}
 > 2.
-> - [小飞机网盘*无需登陆/无要安装客户端/不限速，其中包括运行库* ](https://share.feijipan.com/s/YTEsIG0g)
+> - [小飞机网盘*无需登陆/无需客户端/不限速，其中包括运行库* ](https://share.feijipan.com/s/YTEsIG0g)
 > {.links-list}
 > 3.
 > - [腾讯微云*需要登陆/无需客户端✅/一般下载速度* ](https://share.weiyun.com/AGUB9L0j)
@@ -67,10 +67,10 @@ dateCreated: 2025-01-24T16:51:38.100Z
 	注：需要科学上网<br>
 >我无法访问谷歌商店/我无法购买？请使用安装包<br>
 >1.
->- [123云盘*需要登陆/无需安装客户端/不限速* ](https://www.123865.com/s/rFA8Vv-Rj9wh)
+>- [123云盘*需要登陆/无需客户端/不限速* ](https://www.123865.com/s/rFA8Vv-Rj9wh)
 >{.links-list}
 >2.
->- [小飞机网盘*无需登陆/无需安装客户端/不限速* ](https://share.feijipan.com/s/05EsRrGI)
+>- [小飞机网盘*无需登陆/无需客户端/不限速* ](https://share.feijipan.com/s/05EsRrGI)
 >{.links-list}
 
 <br>
