@@ -2,7 +2,7 @@
 title: 新年游戏企划参与UP人员信息
 description: 
 published: true
-date: 2025-01-25T12:40:42.880Z
+date: 2025-01-25T12:41:17.926Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-25T06:28:24.791Z
@@ -21,7 +21,7 @@ dateCreated: 2025-01-25T06:28:24.791Z
 [bilibili_UID:422577009](https://space.bilibili.com/422577009) Q群:975336659
 [直播间:30274036](https://live.bilibili.com/30274036)
 
-> 星泽川川-shine:<!-- 这是一个彩蛋 -->
+> 星泽川川-shine:
 是心思细腻的男大！随时倾听你的烦恼。不开心吗？唱首歌给你听好不好呀
 [bilibili_UID:407255382](https://space.bilibili.com/407255382)
 [直播间:1867583831](https://live.bilibili.com/1867583831)
@@ -41,4 +41,4 @@ dateCreated: 2025-01-25T06:28:24.791Z
 
 
 
-
+<!-- 这是一个彩蛋 -->
