@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-01-25T04:37:36.316Z
+date: 2025-01-25T04:55:14.669Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -16,7 +16,7 @@ dateCreated: 2025-01-24T16:51:38.100Z
 > 服务器备用地址：119.29.247.34
 > 端口：7777
 > 密码：123456
-> 服务器版本：1.
+> 服务器版本：1.4.4.9
 {.is-success}
 
 |游戏平台|游玩方式|是否支持联机|
@@ -27,7 +27,7 @@ dateCreated: 2025-01-24T16:51:38.100Z
 |iOS/ipadOS|自购Apple商店正版购买下载/提供私人账号（比较麻烦，需要联系秋水）|商店正版✅|
 ## 2.【PC端进入游戏教程】
 1. 在Steam下载并更新到最新的泰拉瑞亚-Terraria 并打开游戏
-https://store.steampowered.com/app/105600/Terraria/
+	https://store.steampowered.com/app/105600/Terraria/
 
 > 我没有steam/我无法购买？
 > - 如果你是windows用户；请使用群/活动提供的游戏安装包
@@ -47,8 +47,6 @@ https://store.steampowered.com/app/105600/Terraria/
 
 11
 
-
-
 > 资源名称：泰拉瑞亚1449.exe 
 > 校验信息：(如果你不理解请忽略此内容)
 > CRC32:d398463c
@@ -56,5 +54,7 @@ https://store.steampowered.com/app/105600/Terraria/
 > SHA1:72ffbb723883ccdffc864ed9cc0cf508714de7cb
 > SHA256:3a3ed60b53fd69c72509a1d1b6ea71cf9f76a4e4fe1bb15934e5be05944dffb6
 {.is-info}
-
-
+## 3.【安卓端进入游戏教程】
+1. 在谷歌商店下载并更新到最新的泰拉瑞亚-Terraria 并打开游戏
+	https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid
+	注：需要科学上网
