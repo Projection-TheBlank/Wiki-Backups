@@ -2,7 +2,7 @@
 title: 关于
 description: 记录白色空间记事簿（本wiki）的帮助信息
 published: true
-date: 2025-01-25T06:27:59.601Z
+date: 2025-01-25T06:31:56.908Z
 tags: 关于
 editor: markdown
 dateCreated: 2024-12-11T08:08:13.357Z
@@ -82,7 +82,8 @@ QQ:770946367  Q群:971084666
 [bilibili_UID: 23786384](https://space.bilibili.com/23786384)   QQ:2034349701
 
 <!-- 
-铭宇：
- 神秘的人。
+> 铭宇：
+神秘的人。
+[bilibili_UID: 538617777](https://space.bilibili.com/538617777)   QQ:2391806835
 -->
 <!-- 不要取消上面那段注释！ -->
