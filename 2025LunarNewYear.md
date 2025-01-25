@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-01-25T05:05:52.834Z
+date: 2025-01-25T05:06:38.919Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -33,7 +33,7 @@ dateCreated: 2025-01-24T16:51:38.100Z
 > - 如果你是windows用户；请使用群/活动提供的游戏安装包
 (已通过火绒杀毒，但不确定其他杀毒软件是否报错，可以反馈给秋水)
 (以下下载方式任选其一)
-> - 如果你是mac/linux用户,你还是需要下载对应平台的steam客户端并购买游戏QAQ,一次购买多平台有效
+> - 如果你是mac/linux用户,你还是需要下载对应平台的steam客户端并购买游戏QAQ,一次购买多平台通用
 > 1.
 > - [夸克网盘*需要登陆/需要安装客户端/非会员限速* ](https://pan.quark.cn/s/770ea40ef285)
 > {.links-list}
