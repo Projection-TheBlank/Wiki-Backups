@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-01-25T05:21:30.942Z
+date: 2025-01-25T05:32:49.337Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -35,16 +35,22 @@ dateCreated: 2025-01-24T16:51:38.100Z
 (以下下载方式任选其一)
 > - 如果你是mac/linux用户,你还是需要下载对应平台的steam客户端并购买游戏QAQ,一次购买多平台通用
 > 1.
-> - [夸克网盘*需要登陆/需要安装客户端/非会员限速* ](https://pan.quark.cn/s/770ea40ef285)
+> - [123盘*需要登陆/无需客户端✅/不限速✅* ](https://www.123684.com/s/3uTGTd-wnwWh)
 > {.links-list}
 > 2.
-> - [百度网盘*需要登陆/需要安装客户端/非会员限速* ](https://pan.baidu.com/s/1eQAm2e9Q6UoHqLLpl0WZzQ?pwd=qsqs)
+> - [腾讯微云*需要登陆/无需客户端✅/一般下载速度* ](https://share.weiyun.com/AGUB9L0j)
 > {.links-list}
 > 3.
-> - [腾讯微云*需要登陆/无需客户端✅/一般下载速度✅* ](https://share.weiyun.com/AGUB9L0j)
+> - [百度网盘*需要登陆/需要安装客户端/非会员限速* ](https://pan.baidu.com/s/1eQAm2e9Q6UoHqLLpl0WZzQ?pwd=qsqs)
+> {.links-list}
+> 4.
+> - [夸克网盘*需要登陆/需要安装客户端/非会员限速* ](https://pan.quark.cn/s/770ea40ef285)
 > {.links-list}
 > 
-
+> 5.
+> - [在你关注的up住粉丝群群文件中获取*参与新春游戏活动的UP主列表* ](https://pan.quark.cn/s/770ea40ef285)
+> {.links-list}
+> 
 <br>
 
 > 资源名称：泰拉瑞亚1449.exe 
