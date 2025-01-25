@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-01-25T05:54:14.802Z
+date: 2025-01-25T05:58:31.797Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -65,20 +65,20 @@ dateCreated: 2025-01-24T16:51:38.100Z
 	注：需要科学上网<br>
 >我无法访问谷歌商店/我无法购买？请使用安装包<br>
 >1.
->- [123盘*需要登陆/无需安装客户端/不限速* ](https://www.123865.com/s/rFA8Vv-Oj9wh)
+>- [123云盘*需要登陆/无需安装客户端/不限速* ](https://www.123865.com/s/rFA8Vv-Rj9wh)
 >{.links-list}
 >2.
->- [小飞机盘*无需登陆/无需安装客户端/不限速* ](https://share.feijipan.com/s/PlEstvMF)
+>- [小飞机网盘*无需登陆/无需安装客户端/不限速* ](https://share.feijipan.com/s/05EsRrGI)
 >{.links-list}
 
 <br>
 
 > 资源名称：泰拉瑞亚1.4.4.9手机汉化修正版.apk
 > 校验信息：(如果你不理解请忽略此内容)
-> CRC32: E339B6B8
-> MD5: 61D0852FDB3AC526E716FD44A1544B1B
-> SHA1: C80EAD3EE5D0BE685FE16381C958B51DDCA8DADD
-> SHA256: 29B3A31EE4BB6EE5F14BA852EA8BB2BDF4B55AA6259EAB9A14F570F222220C3F
+> CRC32: F2A5ED8B
+> MD5: 3D626931A6CB1E8B8DA8D4A095B261CE
+> SHA1: BA8DAA9B424484E4546E707DF130BAD02388EA9C
+> SHA256: 7458751A2470B6C96986E8BF376C1CCA2443EA46DD779BE94C3A36AB6088932E
 {.is-info}
 
 ## 4.手机安装游戏教程-iOS/ipadOS
