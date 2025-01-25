@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-01-25T05:06:38.919Z
+date: 2025-01-25T05:07:49.034Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -24,7 +24,7 @@ dateCreated: 2025-01-24T16:51:38.100Z
 |MacOS/linux|steam平台购买下载|理论✅，待实际测试反馈|
 |PC windows7+|steam平台购买下载/提供pj安装包|steam✅/pj安装包✅|
 |安卓|谷歌商店正版购买下载/提供pj安装包|谷歌商店正版✅/pj安装包✅|
-|iOS/ipadOS|自购Apple商店正版购买下载/提供私人账号（比较麻烦，需要联系秋水）|商店正版✅|
+|iOS/ipadOS|自购Apple商店正版购买下载/提供私人账号（比较麻烦，需要联系秋水）|Apple商店正版✅|
 ## 2.【PC端进入游戏教程】
 1. 在Steam下载并更新到最新的泰拉瑞亚-Terraria 并打开游戏
 	https://store.steampowered.com/app/105600/Terraria/
