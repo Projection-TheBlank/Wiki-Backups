@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-01-25T04:55:14.669Z
+date: 2025-01-25T05:04:19.058Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -57,4 +57,7 @@ dateCreated: 2025-01-24T16:51:38.100Z
 ## 3.【安卓端进入游戏教程】
 1. 在谷歌商店下载并更新到最新的泰拉瑞亚-Terraria 并打开游戏
 	https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid
-	注：需要科学上网
+	注：需要科学上网<br>
+2. 如无法访问谷歌商店请使用安装包
+	- [123盘*需要登陆/无需安装客户端/不限速* ](https://www.123865.com/s/rFA8Vv-Oj9wh)
+	{.links-list}
