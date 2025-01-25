@@ -2,7 +2,7 @@
 title: 新年游戏企划参与UP人员信息
 description: 
 published: true
-date: 2025-01-25T06:40:41.503Z
+date: 2025-01-25T12:23:24.057Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-25T06:28:24.791Z
@@ -12,14 +12,14 @@ dateCreated: 2025-01-25T06:28:24.791Z
 ## （排名不分先后）
 ## UP主
 > 樋辻澪-Mio(tōng shí líng):
-高维生物【呃待补充】
-[bilibili_UID:3546770822924979](https://space.bilibili.com/3546770822924979)  Q群:971084666
-
+高维生物【时空的守望者。活动准备中！】
+[bilibili_UID:3546770822924979](https://space.bilibili.com/3546770822924979)  Q群:971084666 
+[直播间:1713689685](https://live.bilibili.com/1713689685)
 
 > 狄宇qy:
 诶，你找到我了，可……可以收留我吗，我会一直陪在你身边的……
 [bilibili_UID:422577009](https://space.bilibili.com/422577009) Q群:975336659
-
+[直播间:30274036](https://live.bilibili.com/30274036)
 
 
 
