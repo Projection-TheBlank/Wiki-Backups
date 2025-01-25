@@ -2,7 +2,7 @@
 title: 新年游戏企划参与UP人员信息
 description: 
 published: true
-date: 2025-01-25T13:40:47.741Z
+date: 2025-01-25T13:45:08.961Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-25T06:28:24.791Z
@@ -21,19 +21,19 @@ dateCreated: 2025-01-25T06:28:24.791Z
 [直播间:30274036](https://live.bilibili.com/30274036)
 
 > 星泽川川-shine:
-是心思细腻的男大！随时倾听你的烦恼。不开心吗？唱首歌给你听好不好呀  Q群：361153415
-[bilibili_UID:407255382](https://space.bilibili.com/407255382)
+是心思细腻的男大！随时倾听你的烦恼。不开心吗？唱首歌给你听好不好呀
+[bilibili_UID:407255382](https://space.bilibili.com/407255382) Q群:361153415
 [直播间:1867583831](https://live.bilibili.com/1867583831)
 
 
 > 方知有Lv2：
 “被爱会疯狂长出血肉”
-[bilibili_UID:3546817048349034](https://space.bilibili.com/3546817048349034)
+[bilibili_UID:3546817048349034](https://space.bilibili.com/3546817048349034) Q群:752153914
 [直播间:1794043547](https://live.bilibili.com/1794043547)
 
 > 鱼乐个大咸:
 会分享与朋友的游戏日常，喜欢可爱的一切事物～vrchatid：鱼乐个大咸
-[bilibili_UID:3493106263525975](https://space.bilibili.com/3493106263525975)
+[bilibili_UID:3493106263525975](https://space.bilibili.com/3493106263525975) Q群:979961910
 [直播间:26672822](https://live.bilibili.com/26672822)
 
 
