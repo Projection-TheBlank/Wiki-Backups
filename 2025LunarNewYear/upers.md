@@ -2,7 +2,7 @@
 title: 新年游戏企划参与UP人员信息
 description: 
 published: true
-date: 2025-01-25T12:49:35.138Z
+date: 2025-01-25T12:49:52.511Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-25T06:28:24.791Z
@@ -26,6 +26,11 @@ dateCreated: 2025-01-25T06:28:24.791Z
 [bilibili_UID:407255382](https://space.bilibili.com/407255382)
 [直播间:1867583831](https://live.bilibili.com/1867583831)
 
+
+> 方知有Lv2：
+“被爱会疯狂长出血肉”
+[bilibili_UID:3546817048349034](https://space.bilibili.com/3546817048349034)
+[直播间:1794043547](https://live.bilibili.com/1794043547)
 
 
 
