@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-01-25T05:58:31.797Z
+date: 2025-01-25T06:10:29.878Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -38,16 +38,18 @@ dateCreated: 2025-01-24T16:51:38.100Z
 > - [123盘*需要登陆/无需客户端✅/不限速✅* ](https://www.123684.com/s/3uTGTd-wnwWh)
 > {.links-list}
 > 2.
-> - [腾讯微云*需要登陆/无需客户端✅/一般下载速度* ](https://share.weiyun.com/AGUB9L0j)
+> - [小飞机网盘*无需登陆/无要安装客户端/不限速，其中包括运行库* ](https://share.feijipan.com/s/YTEsIG0g)
 > {.links-list}
 > 3.
-> - [百度网盘*需要登陆/需要安装客户端/非会员限速* ](https://pan.baidu.com/s/1eQAm2e9Q6UoHqLLpl0WZzQ?pwd=qsqs)
+> - [腾讯微云*需要登陆/无需客户端✅/一般下载速度* ](https://share.weiyun.com/AGUB9L0j)
 > {.links-list}
 > 4.
+> - [百度网盘*需要登陆/需要安装客户端/非会员限速* ](https://pan.baidu.com/s/1eQAm2e9Q6UoHqLLpl0WZzQ?pwd=qsqs)
+> {.links-list}
+> 5.
 > - [夸克网盘*需要登陆/需要安装客户端/非会员限速* ](https://pan.quark.cn/s/770ea40ef285)
 > {.links-list}
-> 
-> 5.
+> 6.
 > - [在你关注的up住粉丝群群文件中获取*参与新春游戏活动的UP主列表* ](https://pan.quark.cn/s/770ea40ef285)
 > {.links-list}
 > 
