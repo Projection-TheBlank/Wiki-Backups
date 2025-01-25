@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-01-25T04:30:00.182Z
+date: 2025-01-25T04:36:07.871Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -16,6 +16,7 @@ dateCreated: 2025-01-24T16:51:38.100Z
 > 服务器备用地址：119.29.247.34
 > 端口：7777
 > 密码：123456
+> 服务器版本：1.
 {.is-success}
 
 |游戏平台|游玩方式|是否支持联机|
