@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-01-25T05:07:49.034Z
+date: 2025-01-25T05:09:43.143Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -49,10 +49,10 @@ dateCreated: 2025-01-24T16:51:38.100Z
 
 > 资源名称：泰拉瑞亚1449.exe 
 > 校验信息：(如果你不理解请忽略此内容)
-> CRC32:d398463c
-> MD5：cd177438c093a114e2fbf475aa2527ba
-> SHA1:72ffbb723883ccdffc864ed9cc0cf508714de7cb
-> SHA256:3a3ed60b53fd69c72509a1d1b6ea71cf9f76a4e4fe1bb15934e5be05944dffb6
+> CRC32: d398463c
+> MD5: cd177438c093a114e2fbf475aa2527ba
+> SHA1: 72ffbb723883ccdffc864ed9cc0cf508714de7cb
+> SHA256: 3a3ed60b53fd69c72509a1d1b6ea71cf9f76a4e4fe1bb15934e5be05944dffb6
 {.is-info}
 ## 3.【安卓端进入游戏教程】
 1. 在谷歌商店下载并更新到最新的泰拉瑞亚-Terraria 并打开游戏
@@ -61,3 +61,14 @@ dateCreated: 2025-01-24T16:51:38.100Z
 2. 如无法访问谷歌商店请使用安装包
 	- [123盘*需要登陆/无需安装客户端/不限速* ](https://www.123865.com/s/rFA8Vv-Oj9wh)
 	{.links-list}
+
+
+
+
+> 资源名称：泰拉瑞亚1.4.4.9手机汉化修正版.apk
+> 校验信息：(如果你不理解请忽略此内容)
+> CRC32: 
+> MD5：
+> SHA1: 
+> SHA256: 
+{.is-info}
