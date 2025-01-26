@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-01-25T13:40:52.271Z
+date: 2025-01-26T10:01:42.337Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -54,7 +54,7 @@ dateCreated: 2025-01-24T16:51:38.100Z
 > {.links-list}
 > 
 
-> 资源名称：泰拉瑞亚1449.exe 
+> 资源名称：泰拉瑞亚1449安装包.exe 
 > 校验信息：(如果你不理解请忽略此内容)
 > CRC32: d398463c
 > MD5: cd177438c093a114e2fbf475aa2527ba
