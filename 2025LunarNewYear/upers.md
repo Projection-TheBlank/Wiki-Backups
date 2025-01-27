@@ -2,7 +2,7 @@
 title: 新年游戏企划参与UP人员信息
 description: 
 published: true
-date: 2025-01-27T03:48:04.080Z
+date: 2025-01-27T03:50:28.845Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-25T06:28:24.791Z
@@ -62,8 +62,9 @@ dateCreated: 2025-01-25T06:28:24.791Z
 <!-- 隐藏的内容 -->
 <div id="hidden-content">
   <span>铭宇：</span><br />
-  <span>一位神秘的维护人员；负责【综合维护】。</span>
-  <span></span>
+  <span>一位神秘的维护人员；负责【综合维护】</span><br />
+  <span>个人签名：生活的苦难束缚不了向往自由的灵魂！</span><br />
+  <span>https://space.bilibili.com/538617777 QQ:2391806835</span>
 </div>
 
 
