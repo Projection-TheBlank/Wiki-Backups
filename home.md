@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2025-01-08T18:02:48.323Z
+date: 2025-01-27T04:38:05.386Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-10T12:15:42.376Z
@@ -50,7 +50,7 @@ dateCreated: 2024-12-10T12:15:42.376Z
 - (待定)
 {.links-list}
 
-### >鬼泽咏的多重宇宙  <span class="heimu" >其实就是 QQ 频道</span>
+### >鬼泽咏的多重宇宙  <span class="heimu" >其实就是 QQ 频道啦</span>
 <img src="https://i.ibb.co/S6nMx7n/photo-2024-12-16-16-22-48.jpg" alt="频道的二维码" border="0" class="thumbnail_hold_to_enlarge" width="128px" height="auto">
 
 ### >陈梦陈的妙妙屋
