@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2025-01-27T04:38:05.386Z
+date: 2025-01-27T06:52:53.661Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-10T12:15:42.376Z
@@ -45,13 +45,13 @@ dateCreated: 2024-12-10T12:15:42.376Z
 ## 散落的世界碎片
 
 ### >白色空间的联络站 <span class="heimu" >其实就是 QQ 群啦</span>
-<img src="https://i.ibb.co/ZgP1V5p/photo-2024-12-18-16-22-45.jpg" alt="群的二维码" border="0" class="thumbnail_hold_to_enlarge" width="128px" height="auto">
+<img src="/_assets/img/photo-2024-12-18-16-22-45.jpg" alt="群的二维码" border="0" class="thumbnail_hold_to_enlarge" width="128px" height="auto">
 
 - (待定)
 {.links-list}
 
 ### >鬼泽咏的多重宇宙  <span class="heimu" >其实就是 QQ 频道啦</span>
-<img src="https://i.ibb.co/S6nMx7n/photo-2024-12-16-16-22-48.jpg" alt="频道的二维码" border="0" class="thumbnail_hold_to_enlarge" width="128px" height="auto">
+<img src="/_assets/img/photo-2024-12-16-16-22-48.jpg" alt="频道的二维码" border="0" class="thumbnail_hold_to_enlarge" width="128px" height="auto">
 
 ### >陈梦陈的妙妙屋
 - [陈梦陈的妙妙屋*记录平行世界的鬼沢詠* ](/zh/worlds/CMC_clubhouse)
