@@ -2,7 +2,7 @@
 title: 关于
 description: 记录白色空间记事簿（本wiki）的帮助信息
 published: true
-date: 2025-01-27T05:18:40.699Z
+date: 2025-01-27T05:19:08.852Z
 tags: 关于
 editor: markdown
 dateCreated: 2024-12-11T08:08:13.357Z
@@ -83,7 +83,7 @@ QQ:770946367  Q群:971084666
 
 <!-- 
 > 铭宇：
-一位神秘的人。
+一个神秘的人。
 个人签名：生活的苦难束缚不了向往自由的灵魂！
 [bilibili_UID: 538617777](https://space.bilibili.com/538617777)   QQ:2391806835
 -->
@@ -91,7 +91,7 @@ QQ:770946367  Q群:971084666
 <!-- 隐藏的内容 -->
 <div id="hidden-content">
   <span>铭宇：</span><br />
-  <span>一位神秘的维护人员；负责【综合维护】</span><br />
+  <span>一个神秘的人</span><br />
   <span>个人签名：生活的苦难束缚不了向往自由的灵魂！</span><br />
   <span>https://space.bilibili.com/538617777 QQ:2391806835</span>
 </div>
