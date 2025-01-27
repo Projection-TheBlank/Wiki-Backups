@@ -2,7 +2,7 @@
 title: 关于
 description: 记录白色空间记事簿（本wiki）的帮助信息
 published: true
-date: 2025-01-25T13:55:03.304Z
+date: 2025-01-27T05:18:06.323Z
 tags: 关于
 editor: markdown
 dateCreated: 2024-12-11T08:08:13.357Z
@@ -81,11 +81,18 @@ QQ:770946367  Q群:971084666
 在白色空间外侧徘徊的孤独旅人；在纤维丛中迷路了；[待补充 不知道写什么呃呃]
 [bilibili_UID: 23786384](https://space.bilibili.com/23786384)   QQ:2034349701
 
-
-<div id="MingYu"></div>
 <!-- 
 > 铭宇：
 神秘的人。
 生活的苦难束缚不了向往自由的灵魂！
 [bilibili_UID: 538617777](https://space.bilibili.com/538617777)   QQ:2391806835
 -->
+
+<!-- 隐藏的内容 -->
+<div id="hidden-content">
+  <span>铭宇：</span><br />
+  <span>一位神秘的维护人员；负责【综合维护】</span><br />
+  <span>个人签名：生活的苦难束缚不了向往自由的灵魂！</span><br />
+  <span>https://space.bilibili.com/538617777 QQ:2391806835</span>
+</div>
+
