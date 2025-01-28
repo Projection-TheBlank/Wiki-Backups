@@ -2,7 +2,7 @@
 title: 新年游戏企划参与UP人员信息
 description: 
 published: true
-date: 2025-01-27T05:16:27.037Z
+date: 2025-01-28T13:27:07.803Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-25T06:28:24.791Z
@@ -44,7 +44,7 @@ dateCreated: 2025-01-25T06:28:24.791Z
 ## 服务器运行维护人员：
 > 幻石:
 在白色空间外侧徘徊的孤独旅人；在纤维丛中迷路了；[待补充 不知道写什么呃呃]
-活动期间负责【饥荒服务器】的运行维护
+活动期间负责【饥荒服务器】和【我的世界服务器】的运行维护
 [bilibili_UID:23786384](https://space.bilibili.com/23786384) QQ:2034349701
 
 
