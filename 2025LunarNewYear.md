@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-01-26T11:07:27.094Z
+date: 2025-01-29T06:57:50.838Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -10,7 +10,7 @@ dateCreated: 2025-01-24T16:51:38.100Z
 
 # 2025新年游戏企划-泰拉瑞亚篇
 
-## 1.泰拉瑞亚插件服务器 (简称：插件服)
+## 1. 泰拉瑞亚插件服务器 (简称：插件服)
 
 > 服务器地址：qs.4gv.cn  
 > 服务器备用地址：119.29.247.34
@@ -103,3 +103,12 @@ dateCreated: 2025-01-24T16:51:38.100Z
 
 <div id="CaiDan1"></div>
 
+
+# 饥荒篇
+
+## 1. 饥荒服务器
+
+> 服务器地址：dst.magicalstone.xyz  
+> 端口：
+> 密码：8051
+{.is-success}
