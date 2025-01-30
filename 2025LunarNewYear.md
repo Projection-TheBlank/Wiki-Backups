@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-01-30T18:28:33.858Z
+date: 2025-01-30T18:58:54.010Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -112,3 +112,17 @@ dateCreated: 2025-01-24T16:51:38.100Z
 > 端口：
 > 密码：8051
 {.is-success}
+
+# 我的世界篇
+
+## 1. 服务器基本信息
+
+> 服务器地址：dst.magicalstone.xyz  
+> 仅正版：是，未来可能会解除限制
+> 服务器类型：小游戏类
+{.is-success}
+
+## 2. 服务器列表
+
+
+
