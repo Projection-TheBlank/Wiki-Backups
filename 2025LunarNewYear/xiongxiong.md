@@ -2,7 +2,7 @@
 title: 熊熊服
 description: 
 published: true
-date: 2025-01-30T18:25:42.994Z
+date: 2025-01-30T18:27:15.563Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-30T18:23:53.369Z
@@ -12,14 +12,19 @@ dateCreated: 2025-01-30T18:23:53.369Z
 
 ## 1. 泰拉瑞亚小浣熊服务器 (简称：熊熊服)
 
+
+> 软软小浣熊QAQ
+新v小浣熊，粉丝群:932155660
+[bilibili_UID:473001169](https://space.bilibili.com/473001169) Q群:932155660
+[直播间:1729313772](https://live.bilibili.com/1729313772)
+
+
 > 服务器地址：qs.4gv.cn  
 > 服务器备用地址：119.29.247.34
 > 端口：6666
 > 密码：666666
 > 服务器版本：1.4.4.9
 {.is-success}
-
-
 
 |游戏平台|游玩方式|是否支持联机|
 |---|---|---|
