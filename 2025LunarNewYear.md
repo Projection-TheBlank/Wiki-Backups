@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-01-30T18:26:31.492Z
+date: 2025-01-30T18:28:33.858Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -11,11 +11,6 @@ dateCreated: 2025-01-24T16:51:38.100Z
 # 2025新年游戏企划-泰拉瑞亚篇
 
 ## 1. 泰拉瑞亚插件服务器 (简称：插件服)
-
-> 软软小浣熊QAQ
-新v小浣熊，粉丝群:932155660
-[bilibili_UID:473001169](https://space.bilibili.com/473001169) Q群:932155660
-[直播间:1729313772](https://live.bilibili.com/1729313772)
 
 > 服务器地址：qs.4gv.cn  
 > 服务器备用地址：119.29.247.34
