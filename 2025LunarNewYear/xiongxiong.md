@@ -2,7 +2,7 @@
 title: 熊熊服
 description: 
 published: true
-date: 2025-01-30T18:27:15.563Z
+date: 2025-01-30T18:31:35.167Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-30T18:23:53.369Z
@@ -107,5 +107,10 @@ dateCreated: 2025-01-30T18:23:53.369Z
 {.is-info}
 
 ## 4.手机安装游戏教程-iOS/ipadOS
+> 建议选择其他平台进行游戏
+{.is-success}
 
-<div id="CaiDan1"></div>
+
+> 使用iOS和iPadOS用户注意，只有国际版支持ip地址联机，**国服AppleStore**收费下载的泰拉瑞亚**无！法！联！机！**。国际版泰拉瑞亚需要跨区AppleStore且国际版泰拉瑞亚不支持中文！请准备购买正版的用户谨慎考虑！（提供私人账号-需要联系秋水，可下载加入游戏**但不支持中文，且无法汉化**）
+{.is-danger}
+
