@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-02-01T12:14:38.120Z
+date: 2025-02-01T12:15:11.492Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -111,6 +111,13 @@ dateCreated: 2025-01-24T16:51:38.100Z
 > 密码：123456
 > 服务器版本：1.4.4.9
 {.is-success}
+
+|游戏平台|游玩方式|是否支持联机|
+|---|---|---|
+|MacOS/linux|steam平台购买下载|理论✅，待实际测试反馈|
+|PC windows7+|steam平台购买下载/提供pj安装包|steam✅/pj安装包✅|
+
+
 
 # 饥荒篇
 
