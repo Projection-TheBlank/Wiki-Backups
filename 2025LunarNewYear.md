@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-02-01T09:23:57.177Z
+date: 2025-02-01T09:24:17.832Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -118,7 +118,7 @@ dateCreated: 2025-01-24T16:51:38.100Z
 |服务器类型|预期的游戏玩法|端口号|加入服务器的指令|
 |---|---|---|---|
 |海难+恐怖抽奖机|（整活向）用抽奖机抽奖，可能会开出各种东西，包括敌对生物。最后很可能发展为敌对生物之间的混战|11999|c_connect("dst.magicalstone.xyz", 12999)|
-|熔炉|玩家数小于等于 6 人的 PVE 游戏。在封闭的竞技场中与怪物战斗并活下来。|11999|c_connect("dst.magicalstone.xyz", 11999)|
+|熔炉|玩家数小于等于 6 人的 PVE 游戏。在封闭的竞技场中与怪物战斗并活下来。需要足够的团队合作。|11999|c_connect("dst.magicalstone.xyz", 11999)|
 
 # 我的世界篇
 
