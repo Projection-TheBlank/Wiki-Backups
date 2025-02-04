@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2025-02-04T00:23:00.972Z
+date: 2025-02-04T02:16:25.733Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-10T12:15:42.376Z
@@ -15,6 +15,8 @@ dateCreated: 2024-12-10T12:15:42.376Z
 ## 收集散落的人物笔记
 
 ### > 鬼泽咏
+
+- [鬼泽咏wiki](/zh/roles/kuizeyong)
 - [鬼泽咏的自述](/zh/roles/kuizeyong/self_introduce)
 - (鬼泽咏的日记簿）
 - [鬼泽咏的提问箱](/zh/roles/kuizeyong/question_box)
