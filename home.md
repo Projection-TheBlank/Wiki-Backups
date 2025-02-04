@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2025-01-27T06:52:53.661Z
+date: 2025-02-04T00:09:06.675Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-10T12:15:42.376Z
@@ -17,7 +17,7 @@ dateCreated: 2024-12-10T12:15:42.376Z
 ### > 鬼泽咏
 - [鬼泽咏的自述](/zh/roles/kuizeyong/self_introduce)
 - (鬼泽咏的日记簿）
-- (鬼泽咏的提问箱)
+- [鬼泽咏的提问箱](/zh/roles/kuizeyong/question_box)
 {.links-list}
 ### > 樋辻澪-Mio 
 - (樋辻澪-Mio 的自述）
