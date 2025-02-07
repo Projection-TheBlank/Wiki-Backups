@@ -1,8 +1,8 @@
 ---
 title: p进白色空间——被投影的存在
 description: 
-published: false
-date: 2025-02-07T13:52:55.111Z
+published: true
+date: 2025-02-07T20:39:59.295Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T13:52:55.111Z
