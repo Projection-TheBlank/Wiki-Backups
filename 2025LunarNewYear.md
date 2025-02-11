@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-02-11T10:37:50.393Z
+date: 2025-02-11T10:38:09.417Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -29,7 +29,7 @@ dateCreated: 2025-01-24T16:51:38.100Z
 > 使用iOS和iPadOS用户注意，只有**国际版**支持ip地址联机，国服AppleStore收费下载的泰拉瑞亚无法联机。国际版泰拉瑞亚需要跨区AppleStore且国际版泰拉瑞亚**不支持**中文！请准备购买正版的用户谨慎考虑！（提供私人账号-需要联系秋水，可下载加入游戏但不支持中文，且无法汉化）
 {.is-warning}
 
-### 1.【PC端安装游戏教程】
+## 1.【PC端安装游戏教程】
 1. 在Steam下载并更新到最新的泰拉瑞亚-Terraria 并打开游戏
 	https://store.steampowered.com/app/105600/Terraria/
 
@@ -65,7 +65,7 @@ dateCreated: 2025-01-24T16:51:38.100Z
 > SHA1: 72ffbb723883ccdffc864ed9cc0cf508714de7cb
 > SHA256: 3a3ed60b53fd69c72509a1d1b6ea71cf9f76a4e4fe1bb15934e5be05944dffb6
 {.is-info}
-### 2.【手机端安装游戏教程-安卓】
+## 2.【手机端安装游戏教程-安卓】
 1. 在谷歌商店下载并更新到最新的泰拉瑞亚-Terraria 并打开游戏
 	https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid
 	注：需要科学上网<br>
@@ -99,7 +99,7 @@ dateCreated: 2025-01-24T16:51:38.100Z
 > SHA256: 7458751A2470B6C96986E8BF376C1CCA2443EA46DD779BE94C3A36AB6088932E
 {.is-info}
 
-### 3.手机安装游戏教程-iOS/ipadOS
+## 3.手机安装游戏教程-iOS/ipadOS
 
 <div id="CaiDan1"></div>
 
