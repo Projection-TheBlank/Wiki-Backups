@@ -2,7 +2,7 @@
 title: 关于
 description: 记录白色空间记事簿（本wiki）的帮助信息
 published: true
-date: 2025-01-27T05:19:08.852Z
+date: 2025-02-14T01:55:10.856Z
 tags: 关于
 editor: markdown
 dateCreated: 2024-12-11T08:08:13.357Z
@@ -75,7 +75,7 @@ QQ:770946367  Q群:971084666
 
 > 一木秋水：
 信息世界的拾荒者；白色空间记事簿的三次元服务器持有者；一个社畜；误入白色空间的旅人之一；有任何wiki的bug或者异常烦请告知我。
-[bilibili_UID: 21895435](https://space.bilibili.com/21895435)   QQ:1198779608
+[bilibili_UID: 21895435](https://space.bilibili.com/21895435)   
 
 > 幻石:
 在白色空间外侧徘徊的孤独旅人；在纤维丛中迷路了；[待补充 不知道写什么呃呃]
