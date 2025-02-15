@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-02-11T10:38:09.417Z
+date: 2025-02-15T07:50:32.927Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -149,6 +149,12 @@ dateCreated: 2025-01-24T16:51:38.100Z
     <td>11999</td>
     <td>c_connect("dst.magicalstone.xyz", 11999)</td>
   </tr>
+  <tr>
+    <td>原版</td>
+    <td>相对长期的原版生存游戏。建起资源丰富的基地、走完游戏的所有主线剧情。</td>
+    <td>14999</td>
+    <td>c_connect("dst.magicalstone.xyz", 14999)</td>
+  </tr>
 </table>
 
 # 我的世界篇
@@ -157,7 +163,7 @@ dateCreated: 2025-01-24T16:51:38.100Z
 
 > 服务器地址：dst.magicalstone.xyz  
 > 是否开启正版验证：是，未来可能会解除限制
-> 服务器类型：小游戏类
+> 服务器类型：小游戏、原版生存、整合包生存
 {.is-success}
 
 ## 2. 服务器列表
