@@ -2,7 +2,7 @@
 title: 表情包企划
 description: 
 published: true
-date: 2025-02-16T14:09:26.878Z
+date: 2025-02-16T20:06:59.559Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-16T04:56:56.618Z
@@ -55,10 +55,13 @@ dateCreated: 2025-02-16T04:56:56.618Z
 
 - 第17：
 <img src="/kuizeyong/兄弟你好香.jpg" alt="img" style="zoom:10%;" />
-- 第18、19、：
-- ”祈祷“与”哀悼“ （样例图寻找中）
-- 第20：
+- 第18：
+- ”祈祷“ / ”哀悼“ 表情可以与样例相似或稍微再悲伤一点
+<img src="/kuizeyong/prayer.jpg" alt="img" style="zoom:17%;" />
+- 第19：
   “抱抱”（样例图寻找中）
+- 第20：
+  待定
 
 ### 总体原则：
 1.可爱优先（怎么可爱怎么来）
