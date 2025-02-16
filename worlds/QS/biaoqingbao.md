@@ -2,7 +2,7 @@
 title: 表情包企划
 description: 
 published: true
-date: 2025-02-16T11:56:58.566Z
+date: 2025-02-16T11:57:33.737Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-16T04:56:56.618Z
@@ -30,9 +30,6 @@ dateCreated: 2025-02-16T04:56:56.618Z
 - 红色发夹如可以，请体现
 - 关于发型：在实际绘制时，可考虑带红棕色挑染或渐变效果，也可纯色；发型可依照原设图参考，以画师擅长为主。注意红框区域为发型并非兽耳；如可能，红框部分在表情包中夸张体现更佳。
 ![鬼鬼头发设定要求.png](/kuizeyong/鬼鬼头发设定要求.png)
-
-<img src="/_assets/img/photo-2024-12-18-16-22-45.jpg" alt="群的二维码" border="0" class="thumbnail_hold_to_enlarge" width="128px" height="auto">
-
 
 #### 脖颈：有项圈，参考如图
 ![鬼鬼发色设定.webp](/kuizeyong/鬼鬼发色设定.webp)
