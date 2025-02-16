@@ -2,7 +2,7 @@
 title: 鬼泽咏
 description: 鬼泽咏的介绍
 published: true
-date: 2025-02-04T02:39:21.044Z
+date: 2025-02-16T04:46:22.609Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T12:13:07.110Z
@@ -34,7 +34,7 @@ dateCreated: 2025-01-09T12:13:07.110Z
 - 以下为鬼泽咏的初稿设定：参见b站鬼泽咏动态：[Bilibili动态-2021.05.16 16:55](https://www.bilibili.com/opus/525347196923383706)
 <img src="/kuizeyong/鬼泽咏画师初稿.avif" alt="img" style="zoom:75%;" />
 
-- 左眼的包带可摘下，包带后是异色紫瞳（其实是美瞳） 参见b站鬼泽咏动态: [Bilibili动态-2021.05.23 07:55](https://www.bilibili.com/opus/527805683448563400)
+- 右眼的包带可摘下，包带后是异色紫瞳（其实是美瞳） 参见b站鬼泽咏动态: [Bilibili动态-2021.05.23 07:55](https://www.bilibili.com/opus/527805683448563400)
 <img src="/kuizeyong/鬼泽咏异色瞳.avif" alt="img" style="zoom:75%;" />
 
 
