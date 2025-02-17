@@ -2,7 +2,7 @@
 title: 表情包企划
 description: 
 published: true
-date: 2025-02-16T20:38:57.132Z
+date: 2025-02-17T08:09:41.946Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-16T04:56:56.618Z
@@ -56,7 +56,7 @@ dateCreated: 2025-02-16T04:56:56.618Z
 - 第17：
 <img src="/kuizeyong/兄弟你好香.jpg" alt="img" style="zoom:10%;" />
 - 第18：
-- ”祈祷“ / ”哀悼“ （表情可以与样例相似或稍微再悲伤一点。左下角的猫猫不需要画。）
+- ”祈祷“ / ”哀悼“ （表情可以与样例相似或稍微再严肃和悲伤一点。左下角的猫猫不需要画。）
 <img src="/kuizeyong/prayer.jpg" alt="img" style="zoom:17%;" />
 - 第19：
   “抱抱”（样例图寻找中）
