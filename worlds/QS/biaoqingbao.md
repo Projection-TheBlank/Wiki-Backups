@@ -2,7 +2,7 @@
 title: 表情包企划
 description: 
 published: true
-date: 2025-02-17T08:09:41.946Z
+date: 2025-02-17T08:25:32.012Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-16T04:56:56.618Z
@@ -61,7 +61,7 @@ dateCreated: 2025-02-16T04:56:56.618Z
 - 第19：
   “抱抱”（样例图寻找中）
 - 第20：
-  待定
+<img src="/kuizeyong/imgay.jpg" alt="img" style="zoom:11%;" />
 
 ### 总体原则：
 1.可爱优先（怎么可爱怎么来）
