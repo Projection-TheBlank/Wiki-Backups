@@ -2,7 +2,7 @@
 title: ■■
 description: 欢迎来到数学至上主义的教室
 published: true
-date: 2025-03-24T21:00:55.564Z
+date: 2025-03-24T21:14:39.321Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-24T17:53:59.955Z
@@ -24,5 +24,9 @@ $$
 为了进一步研究指数衰减的性质，我们可以先找到这个函数的表达式。方法如下：
 
 $$
+\frac{dN(t)}{dt}=-\lambda N(t)
+$$
 
+$$
+\frac{dN(t)}{N(t)}=-\lambda dt
 $$
