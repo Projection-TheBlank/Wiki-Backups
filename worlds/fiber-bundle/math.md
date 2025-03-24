@@ -2,7 +2,7 @@
 title: ■■
 description: 欢迎来到数学至上主义的教室
 published: true
-date: 2025-03-24T21:00:39.082Z
+date: 2025-03-24T21:00:55.564Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-24T17:53:59.955Z
@@ -24,11 +24,5 @@ $$
 为了进一步研究指数衰减的性质，我们可以先找到这个函数的表达式。方法如下：
 
 $$
-\begin{align*}
-    \text{原式} &= \frac{2x^2 + 4x}{2} + (x+1)(x-1) \\
-    &= \frac{2x(x + 2)}{2} + x^2 - 1 \quad \text{（提取公因式并展开乘积）} \\
-    &= x(x + 2) + x^2 - 1 \quad \text{（约简分式）} \\
-    &= x^2 + 2x + x^2 - 1 \quad \text{（分配乘法）} \\
-    &= 2x^2 + 2x - 1 \quad \text{（合并同类项）}
-\end{align*}
+
 $$
