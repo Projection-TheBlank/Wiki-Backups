@@ -2,7 +2,7 @@
 title: ■■
 description: 欢迎来到数学至上主义的教室
 published: true
-date: 2025-03-24T21:14:39.321Z
+date: 2025-03-24T21:39:32.290Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-24T17:53:59.955Z
@@ -28,5 +28,13 @@ $$
 $$
 
 $$
-\frac{dN(t)}{N(t)}=-\lambda dt
+\frac{dN(t)}{dt} \frac{1}{N(t)} =-\lambda
+$$
+
+$$
+\int \frac{dN(t)}{dt} \frac{1}{N(t)} dt=\int -\lambda dt
+$$
+
+$$
+\ln{N(t)}= -\lambda t + C
 $$
