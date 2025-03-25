@@ -2,7 +2,7 @@
 title: ■■
 description: 欢迎来到数学至上主义的教室
 published: true
-date: 2025-03-25T14:53:25.110Z
+date: 2025-03-25T19:08:09.497Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-24T17:53:59.955Z
