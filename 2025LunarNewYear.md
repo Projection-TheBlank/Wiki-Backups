@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-04-01T09:12:54.035Z
+date: 2025-04-01T09:14:51.395Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -138,7 +138,7 @@ dateCreated: 2025-01-24T16:51:38.100Z
     <th>加入服务器的指令</th>
   </tr>
   <tr>
-    <td>海难+恐怖抽奖机</td>
+    <td>海难+恐怖抽奖机（暂时关服）</td>
     <td>（整活向）用抽奖机抽奖，可能会开出各种东西，包括敌对生物。最后很可能发展为敌对生物之间的混战</td>
     <td>12999</td>
     <td>c_connect("dst.magicalstone.xyz", 12999)</td>
