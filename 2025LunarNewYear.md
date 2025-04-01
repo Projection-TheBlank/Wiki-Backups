@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-02-15T07:50:32.927Z
+date: 2025-04-01T09:12:54.035Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -154,6 +154,12 @@ dateCreated: 2025-01-24T16:51:38.100Z
     <td>相对长期的原版生存游戏。建起资源丰富的基地、走完游戏的所有主线剧情。</td>
     <td>14999</td>
     <td>c_connect("dst.magicalstone.xyz", 14999)</td>
+  </tr>
+  <tr>
+    <td>猪镇</td>
+    <td>不知道，不熟，爱怎么玩怎么玩~</td>
+    <td>15999</td>
+    <td>c_connect("dst.magicalstone.xyz", 15999)</td>
   </tr>
 </table>
 
