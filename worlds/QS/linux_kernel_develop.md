@@ -2,7 +2,7 @@
 title: 内核驱动开发
 description: 
 published: false
-date: 2025-05-26T03:04:37.630Z
+date: 2025-05-26T03:09:07.190Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T03:03:55.063Z
@@ -42,7 +42,7 @@ module_exit(xxx_exit); //注册模块卸载函数
 
 **module_init 函数用来向 Linux 内核注册一个模块加载函数，参数 xxx_init 就是需要注册的具体函数，当使用insmod命令加载驱动的时候， xxx_init 这个函数就会被调用。 module_exit()函数用来向 Linux 内核注册一个模块卸载函数，参数 xxx_exit 就是需要注册的具体函数，当使用“rmmod”命令卸载具体驱动的时候 xxx_exit 函数就会被调用**。
 
-[字符设备驱动](https://so.csdn.net/so/search?q=字符设备驱动&spm=1001.2101.3001.7020)模块加载和卸载模板如下所示：
+**字符设备驱动模块**加载和卸载模板如下所示：
 
 ```cpp
 #include <linux/init.h>
@@ -67,25 +67,16 @@ module_init(xxx_init);
 module_exit(xxx_exit)
  
 MODULE_LICENSE("GPL");//GPL模块许可证
-————————————————
 
-                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
-                        
-原文链接：https://blog.csdn.net/qq_53144843/article/details/126652621
 ```
 
-注：在编写模块时必须加上模块许可证，防止内核被污染，造成某些功能无法使用。
+- 注：在编写模块时必须加上模块许可证，防止内核被污染，造成某些功能无法使用。
 
- 驱动编译完成以后扩展名为.ko，有两种命令可以加载驱动模块： insmod和 modprobe。
+- 驱动编译完成以后扩展名为.ko，有两种命令可以加载驱动模块： insmod和 modprobe。
 
+- modprobe 命令主要智能在提供了模块的依赖性分析、错误检查、错误报告等功能，推荐使用modprobe 命令来加载驱动。 modprobe 命令默认会去 `/lib/modules/<kernel-version` 目录中查找模块。
 
-
-
-
-modprobe 命令主要智能在提供了模块的依赖性分析、错误检查、错误报告等功能，推荐使用modprobe 命令来加载驱动。 modprobe 命令默认会去/lib/modules/<kernel-version>目录中查找模块。
-
-同时 modprobe 命令也可以卸载掉驱动模块所依赖的其他模块，前提是这些依赖模块已经没有被其他模块所使用，否则就不能使用 modprobe 来卸载驱动模块。所以对于模块的卸载，推荐使用 rmmod 命令。
-
+- 同时 modprobe 命令也可以卸载掉驱动模块所依赖的其他模块，前提是这些依赖模块已经没有被其他模块所使用，否则就不能使用 modprobe 来卸载驱动模块。所以对于模块的卸载，推荐使用 rmmod 命令。
 
 
 
