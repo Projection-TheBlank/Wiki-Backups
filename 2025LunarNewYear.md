@@ -2,7 +2,7 @@
 title: 2025新年游戏企划
 description: 
 published: true
-date: 2025-04-01T09:14:51.395Z
+date: 2025-06-01T18:23:44.603Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-24T16:51:38.100Z
@@ -120,6 +120,9 @@ dateCreated: 2025-01-24T16:51:38.100Z
 暂未写完... -->
 
 # 饥荒篇
+
+> 关服休整中，以下信息仅供参考。
+{.is-info}
 
 ## 1. 服务器基本信息
 
